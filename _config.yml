@@ -1,1 +1,18 @@
+title: Problem Love 
+author: lightningholt
+email: calebjamesholt@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  I'm a big fan of tough problems that make you think. This website houses my most cherished projects solving tough problems from 
+    - my PhD work 
+    - a ML project on Jackson Pollock (in progress)
+    - a NLP project for the Oregon People's rebate (in progress)
+    - and many more! 
+  
+# social links
+#twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
+github_username:  lightningholt # DO NOT include the @ character, or else the build will fail!
+
+show_excerpts: true # set to false to remove excerpts on the homepage
+# theme: minima
+
 theme: jekyll-theme-midnight
