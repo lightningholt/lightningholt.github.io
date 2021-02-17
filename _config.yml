@@ -1,7 +1,7 @@
 title: Problem Love 
 author: lightningholt
 email: calebjamesholt@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
+description: # this means to ignore newlines until "baseurl:"
   I'm a big fan of tough problems that make you think. This website houses my most cherished projects solving tough problems from 
     - my PhD work 
     - a ML project on Jackson Pollock (in progress)
